@@ -6,3 +6,21 @@
 3-Scatter Plots. Up until now, we have been dealing with only a single numeric column from the dataset, like Rating, Reviews or Size, etc. But, what if we have to infer a relationship between two numeric columns, say “Rating and Size” or “Rating and Reviews”.
 
 4-Pair Plots. Pair Plots are used when we want to see the relationship pattern among more than 3 different numeric variables. For example, let’s say we want to see how a company’s sales are affected by three different factors, in that case, pair plots will be very helpful.
+
+Univariate → “one variable” data visualization
+
+Strip Plot
+
+Grouping with Strip Plot
+
+Swarm Plot
+
+Box and Violin Plot
+
+Bivariate → “two variable” data visualization
+
+Joint Plot
+
+Density Plot
+
+Pair Plot
