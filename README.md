@@ -9,18 +9,18 @@
 
 Univariate → “one variable” data visualization
 
-Strip Plot
+1.Strip Plot
 
-Grouping with Strip Plot
+2.Grouping with Strip Plot
 
-Swarm Plot
+3.Swarm Plot
 
-Box and Violin Plot
+4.Box and Violin Plot
 
 Bivariate → “two variable” data visualization
 
-Joint Plot
+1.Joint Plot
 
-Density Plot
+2.Density Plot
 
-Pair Plot
+3.Pair Plot
